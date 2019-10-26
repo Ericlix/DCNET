@@ -3,20 +3,23 @@ package jp.dcnet.lxh.chapter07;
 public class Human {
 
 	// ñºëO
-	String humanProName;
+	private  String humanProName;
 	// îNóÓ
-	int humanProAge;
+	private  int humanProAge;
 	// ê´ï 
-	boolean humanProSex;
+	private  boolean humanProSex;
 
-	 Human(String humanProName,
+	// êlÇÃëçêî
+	static int count = 0;
+
+	 public Human(String humanProName,
 		   int humanProAge,
 		   boolean humanProSex) {
 		this.humanProName = humanProName;
 		this.humanProAge = humanProAge;
 		this.humanProSex = humanProSex;
+		count++;
 	}
-
 
 	 Human(){
 
@@ -27,21 +30,15 @@ public class Human {
 	public String getHumanProName() {
 		return humanProName;
 	}
-	public void setHumanProName(String humanProName) {
-		this.humanProName = humanProName;
-	}
+
 	public int getHumanProAge() {
 		return humanProAge;
 	}
-	public void setHumanProAge(int humanProAge) {
-		this.humanProAge = humanProAge;
-	}
+
 	public boolean isHumanProSex() {
 		return humanProSex;
 	}
-	public void setHumanProSex(boolean humanProSex) {
-		this.humanProSex = humanProSex;
-	}
+
 
 
 
