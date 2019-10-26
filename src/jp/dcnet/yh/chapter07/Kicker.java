@@ -24,6 +24,10 @@ public class Kicker {
 			System.out.println("男");
 		}else{
 				System.out.println("女");
+
+
+
+
 			}
 
 
