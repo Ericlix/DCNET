@@ -2,7 +2,7 @@ package jp.dcnet.lxh.chapter07;
 
 public class Human {
 
-	// –¼‘O
+	// –¼‘O  123
 	private  String humanProName;
 	// ”N—î
 	private  int humanProAge;
