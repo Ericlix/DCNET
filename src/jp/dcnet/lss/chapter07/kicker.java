@@ -4,8 +4,6 @@ public class kicker {
 
 	public static void main(String[] args) {
 		//実行プロック
-		
-		
 
 		//タイプ　obj名称　＝new　コンストラクタ(引数)
 		Human human1 = new Human();
@@ -16,7 +14,6 @@ public class kicker {
 		System.out.print(human1.humanProAge);
 		System.out.println(human1.humanProSex);
 
-
 		Human human2 = new Human("b",31,true);
 		System.out.print(human2.getHumanProName());
 		System.out.print(human2.getHumanProAge());
@@ -25,6 +22,8 @@ public class kicker {
 		}else{
 		System.out.println("女性");
 		}
+
+
 
 
 	}
