@@ -5,6 +5,8 @@ public class Animal {
 	private String name;
 	private String kind;
 
+
+//1122
 	public Animal(int age, String name, String kind) {
 		this.age = age;
 		this.kind = kind;
