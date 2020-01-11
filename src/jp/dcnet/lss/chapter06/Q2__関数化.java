@@ -18,7 +18,7 @@ public class Q2__関数化 {
 			}
 		}
 		return a;
-		//
+
 	}
 	public static int SUM(int[] datas){
 		int a = 0;
