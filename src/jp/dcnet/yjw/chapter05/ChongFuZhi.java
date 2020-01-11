@@ -2,10 +2,10 @@ package jp.dcnet.yjw.chapter05;
 
 public class ChongFuZhi {
 
-	////V•Ä‚W–â‚Ìİ–â4
+	////ï¿½Vï¿½Ä‚Wï¿½ï¿½Ìİ–ï¿½4
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
-		//”z—ñ {1, 2, 6, 7, 9, 6, 2, 1} ‚Ìchongfuzhi
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
+		//ï¿½zï¿½ï¿½ {1, 2, 6, 7, 9, 6, 2, 1} ï¿½ï¿½chongfuzhi
 
 		int[] array=new int[]{1,2,6,7,9,6,2,1};
 		findArray(array);

@@ -4,21 +4,21 @@ import java.util.Arrays;
 
 public class ShengXuPaiXu {
 
-	//¿–â‚V
-	//”z—ñ‚ğ¸‡‚Åƒ\[ƒg‚·‚é
+	//ï¿½ï¿½ï¿½ï¿½V
+	//ï¿½zï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åƒ\ï¿½[ï¿½gï¿½ï¿½ï¿½ï¿½
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
-		//ã¸
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
+		//ï¿½ã¸
 		int[] a=new int[]{1,4,3,2};
 
 		sort(a);
 
-        System.out.println("ƒ\[ƒgŒã");
+        System.out.println("?");
         System.out.println(Arrays.toString(a));
 	}
 
 	private static void sort(int[] a) {
-		//‡“ü”r˜–@
+		//ï¿½ï¿½ï¿½ï¿½ï¿½rï¿½ï¿½ï¿½@
         if(a==null||a.length==0){
         	return;
         }
@@ -44,15 +44,15 @@ public class ShengXuPaiXu {
 
     }
 
-	/*//‰º~
+	/*//ï¿½ï¿½ï¿½~
 
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
 		int[] a=new int[]{1,4,3,2};
 
 		sortDesc(a);
 
-        System.out.println("ƒ\[ƒgŒã");
+        System.out.println("ï¿½\ï¿½[ï¿½gï¿½ï¿½");
         System.out.println(Arrays.toString(a));
 	}
 

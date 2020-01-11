@@ -7,20 +7,20 @@ public class JustDoIt {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Line ln=new Line("Rèü");
+		Line ln=new Line("ï¿½Rï¿½ï¿½ï¿½");
 		
 		List<Station> stList=new ArrayList<Station>();
 		
-		stList.add(new Station("RŒû"));
-		stList.add(new Station("Rã"));
-		stList.add(new Station("R‰º"));
+		stList.add(new Station("ï¿½Rï¿½ï¿½"));
+		stList.add(new Station("ï¿½Rï¿½ï¿½"));
+		stList.add(new Station("ï¿½Rï¿½ï¿½"));
 		
 		for(Station x:stList) {
-			//¿–â‚P
+			//ï¿½ï¿½ï¿½ï¿½P
 			System.out.println(ln.route+"of"+x.getName());
 			
-			//¿–â‚Q
-			System.out.println(x.name.equals("Rã"));
+			//ï¿½ï¿½ï¿½ï¿½Q
+			System.out.println(x.name.equals("ï¿½Rï¿½ï¿½"));
 		}
 				
 		

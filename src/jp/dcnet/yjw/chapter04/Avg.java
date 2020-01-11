@@ -3,10 +3,10 @@ package jp.dcnet.yjw.chapter04;
 public class Avg {
 
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
 		
-		//–â‘è‚T
-		//”z—ñ {1, 2, 6, 7, 9, 6, 2, 1} ‚ÌÅ’lAÅ’lA˜aA•½‹Ï’l‚ğ‹‚ß‚é
+		//ï¿½ï¿½ï¿½T
+		//ï¿½zï¿½ï¿½ {1, 2, 6, 7, 9, 6, 2, 1} ï¿½ÌÅ’lï¿½Aï¿½Å’lï¿½Aï¿½aï¿½Aï¿½ï¿½ï¿½Ï’lï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½
 		int[] array=new int[]{1,2,6,7,9,6,2,1};
 		int max=array[0];
 		for(int i = 0; i < array.length; i++) {

@@ -2,10 +2,10 @@ package jp.dcnet.yjw.chapter04;
 
 public class JuZhenJiaFa {
 
-	//–â‘è‚V
-	//2ŸŒ³”z—ñ‚Ì˜a
+	//ï¿½ï¿½ï¿½V
+	//2ï¿½ï¿½ï¿½ï¿½ï¿½zï¿½ï¿½Ì˜a
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
 		int[][] a = new int[][] {{1,2},{4,6}};
 		int[][] b = new int[][] {{3,5},{6,9}};
 

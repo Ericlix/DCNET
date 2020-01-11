@@ -2,10 +2,10 @@ package jp.dcnet.yjw.chapter05;
 
 public class Index0 {
 
-	//¿–â‚T
+	//ï¿½ï¿½ï¿½ï¿½T
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
-		//¿–â‚R‚Ì”z—ñ‚É’lu‚Vv‚ÌƒCƒ“ƒfƒbƒNƒX‚ğ‹‚Ş
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
+		//ï¿½ï¿½ï¿½ï¿½Rï¿½Ì”zï¿½ï¿½É’lï¿½uï¿½Vï¿½vï¿½ÌƒCï¿½ï¿½ï¿½fï¿½bï¿½Nï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		int[] array=new int[]{1,2,6,7,4,6,2,1};
 		int cfz=7;
 

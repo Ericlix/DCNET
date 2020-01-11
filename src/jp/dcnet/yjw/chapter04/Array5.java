@@ -2,9 +2,9 @@ package jp.dcnet.yjw.chapter04;
 
 public class Array5 {
 
-	//”z—ñ‚Ìİ–â‚Ì–â‘è5
+	//ï¿½zï¿½ï¿½Ìİ–ï¿½Ì–ï¿½ï¿½5
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
 		int[] array=new int[]{1,3,5,7,100,0,1};
 		int max=array[0];
 		for(int i = 0; i < array.length; i++) {

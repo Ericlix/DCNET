@@ -2,9 +2,9 @@ package jp.dcnet.yjw.chapter04;
 
 public class Array7 {
 
-	//”z—ñ‚Ìİ–â‚Ì–â‘è7
+	//ï¿½zï¿½ï¿½Ìİ–ï¿½Ì–ï¿½ï¿½7
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
 		int[][] array=new int[][]{
 				{1,2,3,4},{5,6,7,8}
 		};

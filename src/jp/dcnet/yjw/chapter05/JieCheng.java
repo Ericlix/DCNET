@@ -2,10 +2,10 @@ package jp.dcnet.yjw.chapter05;
 
 public class JieCheng {
 
-	//V•Ä‚W–â‚Ìİ–â2
+	//ï¿½Vï¿½Ä‚Wï¿½ï¿½Ìİ–ï¿½2
 	public static void main(String[] args) {
-		// TODO ©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
-		//5‚ÌŠKæ‚ğ‹‚ß‚é(for)
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
+		//5ï¿½ÌŠKï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚ï¿½(for)
 		//Scanner sc=new Scanner(System.in);
 		//int x=sc.nextInt();
 

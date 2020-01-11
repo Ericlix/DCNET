@@ -2,12 +2,12 @@ package jp.dcnet.yjw.chapter03;
 
 public class Ranking {
 
-	//ƒtƒ[§Œä‚ÌŽ¿–â‚P
+	//ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ÌŽï¿½ï¿½ï¿½P
 	public static void main(String[] args) {
-		// TODO Ž©“®¶¬‚³‚ê‚½ƒƒ\ƒbƒhEƒXƒ^ƒu
+		// TODO ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‚½ï¿½ï¿½ï¿½\ï¿½bï¿½hï¿½Eï¿½Xï¿½^ï¿½u
 		int a = 56;
-		System.out.println("¬Ñƒ‰ƒ“ƒLƒ“ƒO”»’fB“ü—Í’l=" + a);
-		// ˆÈ‰ºƒR[ƒh‚ðŠ®¬‚µ‚Ä‚­‚¾‚³‚¢B
+		System.out.println("ï¿½ï¿½ï¿½Ñƒï¿½ï¿½ï¿½ï¿½Lï¿½ï¿½ï¿½Oï¿½ï¿½ï¿½fï¿½Bï¿½ï¿½ï¿½Í’l=" + a);
+		// ï¿½È‰ï¿½ï¿½Rï¿½[ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
 		if(a>=90) {
 		 System.out.println("A");
 		} else if(a<90&&a>=80) {

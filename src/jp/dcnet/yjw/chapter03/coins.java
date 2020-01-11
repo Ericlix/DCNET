@@ -2,7 +2,7 @@ package jp.dcnet.yjw.chapter03;
 
 public class coins {
 
-	//ƒtƒ[§Œä‚Ì¿–â‚Q
+	//ï¿½tï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½ï¿½Q
 	public static void main(String[] args) {
 		int x=3348;
 
