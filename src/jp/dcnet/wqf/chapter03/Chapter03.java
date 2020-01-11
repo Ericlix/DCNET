@@ -26,10 +26,11 @@ public class Chapter03 {
 		}
 		System.out.println(a);
 
-		int y = 0;
-		int total = 0;
+		int y = 90;
+		int total = 100;
 		if (total > 0) {
 			int temp = total - y;
+			System.out.println("差額"+temp);
 			if (temp > 0) {
 				int kosu218 = 0;
 				int kosu128 = 0;
@@ -68,6 +69,7 @@ public class Chapter03 {
 				System.out.println("pay12 :" + kosu12 + "回");
 				System.out.println("pay6 :" + kosu6 + "回");
 
+
 			} else {
 				y -= total;
 				System.out.println("支払い成功" + total + "y=" + y);
@@ -95,8 +97,30 @@ public class Chapter03 {
 		//
 		// }
 		//
+		//質問２︓⽇本のコインを１円、５円、１０円、１００円、５００円があります。３３４０ 円のコイン数をもとめください。
 
 
+		int k = 3348;
+		if (k >= 500) {
+			System.out.println("500円"+k/500+"枚数");
+			k=k%500;
+		}
+		if(k>=100){
+			System.out.println("100円"+k/100+"枚数");
+			k=k%100;
+		}
+		if(k>=50){
+			System.out.println("50円"+k/50+"枚数");
+			k=k%50;
+
+		}
+		if(k>=10){
+			System.out.println("10円"+k/10+"枚数");
+			k=k%10;
+
+		}
 	}
+
+
 
 }
