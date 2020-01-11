@@ -4,21 +4,8 @@ public class javastudy03 {
 
     public static void main(String[] args) {
         // TODO 自動生成されたメソッド・スタブ
-        int a = 0;
 
-        if(a>0) {
-            a++;
-        }else {
-            a--;
-        }
-                System.out.println();
-
-
-
-
-
-
-                int y =82;
+                int y =6;
                 int total = 100;
 
                 if (total > 0) {
@@ -44,13 +31,13 @@ public class javastudy03 {
                     		kosu128 = (int) temp / 128;
                     		temp = temp % 128;
                     	} else if (temp > 36) {
-                    		kosu128 = (int) temp / 36;
+                    		kosu36 = (int) temp / 36;
                     		temp = temp % 36;
                     	} else if (temp >= 12) {
-                    		kosu128 = (int) temp / 12;
+                    		kosu12 = (int) temp / 12;
                     		temp = temp % 12;
                     	} else if (temp >= 6) {
-                    		kosu128 = (int) temp / 6;
+                    		kosu6 = (int) temp / 6;
                     		temp = temp % 6;
                     	} else {
                     		kosu6++;
@@ -59,10 +46,10 @@ public class javastudy03 {
 
                 }
                 System.out.println("pay 218 :" + kosu218 );
-                System.out.println("pay 218 :" + kosu128 );
-                System.out.println("pay 218 :" + kosu36 );
-                System.out.println("pay 218 :" + kosu12 );
-                System.out.println("pay 218 :" + kosu6 );
+                System.out.println("pay 128 :" + kosu128 );
+                System.out.println("pay 36 :" + kosu36 );
+                System.out.println("pay 12 :" + kosu12 );
+                System.out.println("pay 6 :" + kosu6 );
 
                 } else {
     				y -= total;
