@@ -1,7 +1,9 @@
-package Yoko;
+package jp.dcnet.cj.chapter05;
 
-public class NxThree {
-
+public class TestQuestion_Three {
+	
+	//質問3:配列 {1, 2, 6, 7, 9, 6, 2, 1} の最大値、最小値、和、平均値を求める。
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] array = { 1, 2, 6, 7, 9, 2, 1 };

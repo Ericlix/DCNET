@@ -1,6 +1,8 @@
-package Yoko;
+package jp.dcnet.cj.chapter05;
 
-public class NxSeven {
+	//質問7:配列を昇順でソートする(java.util等メソッド利用禁止)。
+
+public class TestQuestion_seven {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -10,7 +12,7 @@ public class NxSeven {
 		for (int i = 0; i < a.length; i++) {
 			zz = i;
 			for (int j = i; j < a.length; j++) {
-				if (a[zz] < a[j])
+				if (a[zz] > a[j])
 					zz = j;
 			}
 			if (i != zz) {
@@ -22,5 +24,4 @@ public class NxSeven {
 		for (int i = 0; i < a.length; i++)
 			System.out.print(a[i] + " ");
 	}
-
 }

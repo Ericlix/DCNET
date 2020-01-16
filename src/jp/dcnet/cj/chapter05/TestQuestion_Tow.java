@@ -1,7 +1,9 @@
-package Yoko;
+package jp.dcnet.cj.chapter05;
 
-public class NxTwo {
-
+public class TestQuestion_Tow {
+	
+	//設問2:5の階乗を求める(for)。
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		for (int x = 1; x <= 5; x++) {

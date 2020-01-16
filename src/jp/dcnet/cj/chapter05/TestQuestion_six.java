@@ -1,7 +1,9 @@
-package Yoko;
+package jp.dcnet.cj.chapter05;
 
-public class NxSix {
-
+public class TestQuestion_six {
+	
+	//質問6:任意行列(2次元配列)の積を求める。
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[][] a = new int[][] { { 1, 2, 3, 4 }, { 5, 6, 7, 8 } };
@@ -13,5 +15,4 @@ public class NxSix {
 		}
 		System.out.println("2次元配列の積" + c);
 	}
-
 }

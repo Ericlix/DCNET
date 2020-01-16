@@ -1,7 +1,9 @@
-package Yoko;
+package jp.dcnet.cj.chapter05;
 
-public class NxEight {
-
+public class TestQuestion_eight {
+	
+	//質問8:LV10のパスカルの三角形を出力してください。
+	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[][] yoko = new int[10][10];
