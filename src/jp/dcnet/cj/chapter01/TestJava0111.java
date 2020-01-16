@@ -4,11 +4,12 @@ public class TestJava0111 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//質問１
 		int i = 10;
 		int n = i % 5;
-		// 0
-		System.out.print(n);
+		System.out.print(n); //答え：０
 
+		//質問２
 		int a = 0;
 		a = a > 10 ? 11 : 0;
 		if (a > 10) {
@@ -16,8 +17,17 @@ public class TestJava0111 {
 		} else {
 			a = 0;
 		}
-		System.out.print(a);
-
+		System.out.print(a);  	// 答え：０
+		
+		//質問３
+		//変数値を比較する演算子は = or == ?
+		//答え：＝　
+		
+		
+		//質問４
+		//ブリアン( boolean )変数に設定可能の値は「?」「?」。
+		//答え：true  と　false
+		
 		int a3 = 100 / 5;
 		if (a3 == 0) {
 		}
@@ -36,13 +46,13 @@ public class TestJava0111 {
 			//文字规范
 		}
 		
-		boolean flg1;
-		flg1  = true;
-		flg1 = false;
-		Boolean flg2;
-		flg2 = true;
-		flg2 = false;
-		flg2 = null;
+//		boolean flg1;
+//		flg1  = true;
+//		flg1 = false;
+//		Boolean flg2;
+//		flg2 = true;
+//		flg2 = false;
+//		flg2 = null;
 		
 		
 

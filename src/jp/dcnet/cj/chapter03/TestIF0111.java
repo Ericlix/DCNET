@@ -13,10 +13,11 @@ public class TestIF0111 {
 //
 //		System.out.println(a);
 
-		int y = 0;
-		int total = 0;
-		if(total>0){
+		int y = 10;
+		int total =100;
+		if(total > 0){
 		int temp = total - y;
+		System.out.println("差額" + temp);
 		if (temp > 0) {
 			int kosu218 = 0;
 			int kosu128 = 0;
