@@ -15,7 +15,7 @@ public class TestQuestion_eight {
 				} else {
 					yoko[i][x] = yoko[i - 1][x] + yoko[i - 1][x - 1];
 				}
-				System.out.println(yoko[i][x]);
+				System.out.print(yoko[i][x]);
 			}
 			System.out.println();
 		}
