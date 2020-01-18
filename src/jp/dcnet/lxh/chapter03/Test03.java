@@ -21,8 +21,8 @@ public class Test03 {
 		}
 
 
-		int y = 0;
-		int total = 0;
+		int y = 50;
+		int total = 100;
 
 		if (total > 0) {
 			int temp = total - y;
